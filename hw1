@@ -1,1 +1,56 @@
 Did hw along side Keegan
+
+$ wc -l chipotle.tsv
+4623 chipotle.tsv
+
+$ tail chipotle.tsv
+
+
+
+$ grep -i "steak" chipotle.tsv | wc -l (alt: grep -ic "steak" chipolte.csv)
+706
+
+$ grep -i "chicken" chipotle.tsv | wc -l
+1565
+
+$ grep -i "chicken burrito" chipotle.tsv | wc -l
+553
+
+$ grep -i "steak burrito" chipotle.tsv | wc -l
+368
+
+$ grep -i "chicken burrito" chipotle.tsv | grep -i "black beans"| wc -l
+282
+
+$ grep -i "chicken burrito" chipotle.tsv | grep -i "pinto beans"| wc -l
+105
+
+
+
+$ git pull 						<to see what is at Git>
+
+Steve Alvarez@Innovatology-HP MINGW64 ~/desktop
+$ cd ga_hw 						<the location of my hw folder>
+
+$ touch hw1						<created a new text file and will showup in hw folder>
+
+$ git status						<confirm new file in red>
+
+$ git add -A						<1. confirms the new file, status goes green>
+
+$ git commit -m "added hw1"				<2. commits to a version with note "note">
+
+$ git push						<3. Sends file to github
+
+Open file under ga_wk on desktop and update with hw solution
+
+Save file then do three step process
+
+After three step process go to Github and see new file.
+
+Go to file in Github, copy link and submit to Homework Submission site.
+
+grep "a" airline.csv | wc -l				<ans quick quiz>
+
+
+
