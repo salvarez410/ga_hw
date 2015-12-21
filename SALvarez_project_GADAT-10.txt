@@ -1,1 +1,25 @@
-My questions will be 
+Project Question
+
+What is the question you hope to answer?
+
+Are US health care plans consistent across the USA?
+
+Corollary questions
+
+WHich regions have highest? Lowest?
+What variables seem to impact rates?
+
+What data are you planning to use to answer that question?
+
+Data from Health Insurance Marketplace
+
+What do you know about the data so far?
+
+Its managable for first project. Several demographic columns, 5 differnt continuous variables of premiums. About 75000 lines of data.  I could try to merge with
+region data or maybe state death rates.
+
+Why did you choose this topic?
+
+I had planned on using work data, but restrictions from the Army won't allow me so I am doing 
+medical industry because our company just acquired a healthcare consultantcy company and I would 
+like to shift into healthcare and get out of govt.
